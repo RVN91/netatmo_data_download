@@ -1,1 +1,3 @@
 # netatmo_data_download
+
+Downloads rain gauge data from Netatmo's weather gauges...
